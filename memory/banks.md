@@ -10,6 +10,7 @@ Even though the MBC allows for switching it is far from convinient. It can quick
 
 A cartridge can also come with up to 4 8KB banks of RAM for a total of 32KB additional memory.
 
-### Controlling the MBC
 
+<hr>
+### Controlling the MBC
 To switch banks the MBC is mapped to specific memory. As there are quite a few MBC configurations refer to this [page](http://gbdev.gg8.se/wiki/articles/Memory_Bank_Controllers) if you are interested in the specifics.

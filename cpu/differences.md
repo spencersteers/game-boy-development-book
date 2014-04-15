@@ -17,5 +17,3 @@ Although similar to the Z80 the LR35902 has a few differences that are worth not
     +  Used to speed up system start time
 -  Extended Z80 instructions (except for bit-manipulation)
 
-
-Despite the missing features LR35902 is more than enough.

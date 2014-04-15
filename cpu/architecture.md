@@ -14,5 +14,6 @@ Originally the Z80 was designed to be binary compatible with the 8080. A program
 - 16-bit program counter
 - 8-bit status flag register
 
-![Z80 Architecture Diagram](https://raw.github.com/spencersteers/game-boy-development-book/master/assets/z80-arch.png)
-**There are a couple things on the diagram that the LR35902 does not have. Go on to the next section to see what is different.**
+<hr>
+[![Z80 Architecture Diagram](https://raw.github.com/spencersteers/game-boy-development-book/master/assets/z80-arch.png)](https://raw.github.com/spencersteers/game-boy-development-book/master/assets/z80-arch.png)
+*There are a couple things on the Z80 diagram that the LR35902 does not have. Their differences will be discussed in the next section.*
