@@ -13,7 +13,7 @@ Here are some specifics on identifying and using the LR35902
 | General Purpose (8-bit) | `B` `C` `D` `E` `H` `L`  |
 | General Purpose (16-bit) | `AF` `BC` `DE` `HL` |
 
-**Although you can use `AF` it is most commonly not used for general purpose but to push the accumulator/status state onto the stack**
+*Although you can use `AF` it is most commonly not used for general purpose but to push the accumulator/status state onto the stack*
 
 ### Status Flags
 Each bit of the register `F` represents a specific state or **flag**
