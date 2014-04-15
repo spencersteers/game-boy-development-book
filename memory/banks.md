@@ -4,7 +4,7 @@ Although the Game Boy only has 64KB of addressable memory some cartridge's have 
 
 ### How do banks work?
 
-Every cartridge can have a variable **ROM** size. A cartridge can also provide it's own onboard **RAM**. Refering back to the memory map, area *$0000* - *$3FFF* always refers to the first 16KB of the cartridge ROM, or *bank 0*, of the cartridge. The next 16KB (*$4000* - *$7FFF*) is for the switchable ROM bank. A cartridge can have as many 16KB banks as they want. To facilitate this switch every cartridge contains a **Memory Bank Controller** (MBC). The MBC handles swapping area *$4000* - *$7FFF* so that it refers to a seperate piece of the cartridge ROM.
+Every cartridge can have a variable **ROM** size. A cartridge can also provide it's own onboard **RAM**. Refering back to the memory map, area *$0000* - *$3FFF* always refers to the first 16KB of the cartridge ROM, or bank 0, of the cartridge. The next 16KB (*$4000* - *$7FFF*) is for the switchable ROM bank. A cartridge can have as many 16KB banks as they want. To facilitate this switch every cartridge contains a **Memory Bank Controller** (MBC). The MBC handles swapping area *$4000* - *$7FFF* so that it refers to a seperate piece of the cartridge ROM.
 
 Even though the MBC allows for switching it is far from convinient. It can quickly become a pain because all bank switching must be done explicitly. A 2MB cart would have over 100 usable memory banks to keep track of.
 

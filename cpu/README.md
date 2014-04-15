@@ -7,4 +7,4 @@ Because the LR35902 is an unique chip manufactured for Nintendo there was very l
 
 <hr>
 Z80 Advertisement:
-![Z80 Advertisement](https://raw.github.com/spencersteers/game-boy-development-book/master/assets/z80_ad.jpg)
+![Z80 Advertisement](https://raw.github.com/spencersteers/game-boy-development-book/master/assets/z80-ad.jpg)

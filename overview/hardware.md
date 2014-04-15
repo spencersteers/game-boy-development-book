@@ -19,7 +19,7 @@ The basic specs of the Game Boy are below.
 | Sound | 4 channels with stereo sound |
 | Power | DC6V 0.7W (DC3V 0.7W for GB Pocket) |
 
-The Game Boy (as well as the majority of all video game consoles) is completly closed and totally integrated. Because software will always run on identical devices the interworkings of the device become very complex - but standard. We will explore the hardware in depth in the next few sections.
+The Game Boy (almost all video game consoles) is completly closed and totally integrated. Because software will always run on identical devices the interworkings of the device become very complex - but standard. We will explore the hardware in depth in the next few sections.
 
 
 <hr>
