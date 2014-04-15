@@ -29,4 +29,4 @@ Here's how this 64KB is divided up
 Before we go into the specifics of each section you might have noticed multiple memory areas refering to *Banks*. Let's see what these are first.
 
 <hr>
-(Memory Map)[http://gameboy.mongenel.com/dmg/asmmemmap.html] from [Duo's Gameboy Dev](http://gameboy.mongenel.com/)
+[Memory Map](http://gameboy.mongenel.com/dmg/asmmemmap.html) from [Duo's Gameboy Dev](http://gameboy.mongenel.com/)
